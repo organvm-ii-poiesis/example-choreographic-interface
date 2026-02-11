@@ -2,6 +2,14 @@
 
 # example-choreographic-interface
 
+[![CI](https://github.com/organvm-ii-poiesis/example-choreographic-interface/actions/workflows/ci.yml/badge.svg)](https://github.com/organvm-ii-poiesis/example-choreographic-interface/actions/workflows/ci.yml)
+[![Coverage](https://img.shields.io/badge/coverage-pending-lightgrey)](https://github.com/organvm-ii-poiesis/example-choreographic-interface)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/organvm-ii-poiesis/example-choreographic-interface/blob/main/LICENSE)
+[![Organ II](https://img.shields.io/badge/Organ-II%20Poiesis-EC4899)](https://github.com/organvm-ii-poiesis)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/organvm-ii-poiesis/example-choreographic-interface)
+[![Markdown](https://img.shields.io/badge/lang-Markdown-informational)](https://github.com/organvm-ii-poiesis/example-choreographic-interface)
+
+
 **Movement and dance as computational interface — choreographic notation meets generative systems.**
 
 > *The body is the oldest computer. Every gesture is an instruction, every phrase a subroutine, every dance a program that writes itself through space and time.*
