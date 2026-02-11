@@ -243,7 +243,7 @@ Dancer → [Choreographic Interface] → Parameter Bus (core-engine) → Rendere
 
 ## Theory Implemented from ORGAN-I
 
-This repository directly implements theoretical work from [ORGAN-I (Theoria)](https://github.com/organvm-i-theoria), specifically from the [recursive-engine](https://github.com/organvm-i-theoria/recursive-engine):
+This repository directly implements theoretical work from [ORGAN-I (Theoria)](https://github.com/organvm-i-theoria), specifically from the [recursive-engine](https://github.com/organvm-i-theoria/recursive-engine--generative-entity):
 
 ### The Body as Recursive System
 
